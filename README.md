@@ -1,4 +1,8 @@
-## Hi there 👋
+## আল কুরআন
+
+### দোয়া
+ - [দোয়া - কুরআন হতে](dua_quran.md)
+ - [দোয়া - হাদিস হতে](dua_hadith.md)
 
 <!--
 **quran2/quran2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
