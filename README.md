@@ -5,6 +5,7 @@
  - [দোয়া - হাদিস হতে](dua_hadith.md)
  - [দরূদ](durood.md)
  - [গুরুত্বপূর্ণ বিষয় - কুরআন হতে](Essential_Guidance.md)
+ - [ধৈর্য্য](patience)
 
 <!--
 **quran2/quran2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
